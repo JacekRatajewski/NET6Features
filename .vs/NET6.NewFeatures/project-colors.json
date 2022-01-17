@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c316efa7-1b8b-455a-b0d7-9e0cad1e2c92": {
+      "ProjectGuid": "c316efa7-1b8b-455a-b0d7-9e0cad1e2c92",
+      "DisplayName": "NET6.NewFeatures",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

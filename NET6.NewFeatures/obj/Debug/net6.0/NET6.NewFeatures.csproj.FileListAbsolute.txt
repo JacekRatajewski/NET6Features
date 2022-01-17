@@ -1,0 +1,15 @@
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\bin\Debug\net6.0\NET6.NewFeatures.exe
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\bin\Debug\net6.0\NET6.NewFeatures.deps.json
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\bin\Debug\net6.0\NET6.NewFeatures.runtimeconfig.json
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\bin\Debug\net6.0\NET6.NewFeatures.dll
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\bin\Debug\net6.0\NET6.NewFeatures.pdb
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\NET6.NewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\NET6.NewFeatures.AssemblyInfoInputs.cache
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\NET6.NewFeatures.AssemblyInfo.cs
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\NET6.NewFeatures.csproj.CoreCompileInputs.cache
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\NET6.NewFeatures.dll
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\ref\NET6.NewFeatures.dll
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\NET6.NewFeatures.pdb
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\NET6.NewFeatures.genruntimeconfig.cache
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\NET6.NewFeatures.csproj.AssemblyReference.cache
+C:\Users\jrat01\Desktop\EXTERNALS\NET6\NET6.NewFeatures\NET6.NewFeatures\obj\Debug\net6.0\refint\NET6.NewFeatures.dll
